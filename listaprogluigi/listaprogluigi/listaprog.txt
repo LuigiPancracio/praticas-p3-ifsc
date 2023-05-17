@@ -1,0 +1,74 @@
+﻿1. Em programação orientada a objetos (POO), é possível afirmar que uma “classe” é a mesma coisa que um “objeto”? Justifique e, se necessário, diferencie ambos.
+
+
+Uma classe é um modelo ou uma estrutura que define as propriedades e comportamentos que um objeto pode ter.
+Um objeto é uma instância concreta de uma classe. É uma representação real de uma classe e tem todas as características e comportamentos definidos pela classe. Um objeto é criado a partir de uma classe e pode ser utilizado para executar ações e manipular dados.
+
+
+ Uma classe é uma definição abstrata de um objeto, enquanto um objeto é uma instância concreta e real dessa classe.
+
+
+2. O que significa o termo “instanciar uma classe”? Explique com as suas próprias palavras.
+
+
+Significa criar um objeto daquela classe específica. Uma classe é uma descrição de um tipo de objeto, enquanto um objeto é uma instância concreta dessa classe.
+
+
+3. É possível utilizar o paradigma de orientação a objetos em outras linguagens de programação? Justifique.
+
+
+Sim, é possível utilizar o paradigma de orientação a objetos em outras linguagens de programação, como C++ e Python. O paradigma de orientação a objetos é uma abordagem amplamente utilizada em programação devido à sua capacidade de modelar sistemas complexos em componentes reutilizáveis e modulares.
+
+
+4. O que significa quando dizemos que uma linguagem de programação é “multiparadigma”?
+
+
+É uma linguagem que suporta vários paradigmas de programação, incluindo orientação a objetos, programação procedural, programação funcional e outros. Isso significa que um programador pode escolher a abordagem mais adequada para resolver um determinado problema, sem ficar limitado a uma única abordagem.
+
+
+5. O que é o paradigma de orientação a objetos e para que serve?
+
+
+É uma abordagem de programação baseada em objetos, onde um objeto é uma instância de uma classe que possui atributos e métodos. Ele serve para modelar sistemas complexos em componentes reutilizáveis e modulares, simplificando o desenvolvimento e a manutenção de software.
+
+
+
+
+
+
+
+
+
+
+6. Cite três cenários onde o paradigma de programação orientada a objetos é desnecessário, e três cenários onde é necessário.
+
+
+ Três cenários onde é necessário seriam: desenvolvimento de aplicativos complexos, desenvolvimento de jogos e simulações em 3D e desenvolvimento de sistemas de gerenciamento de bancos de dados.Três cenários onde são desnecessários seriam: desenvolvimento de scripts simples, programação de microcontroladores com recursos limitados e programação de sistemas operacionais em baixo nível.
+
+
+
+
+
+
+7. Descreva o processo de compilação-interpretação de um código-fonte Java.
+
+
+O processo de compilação-interpretação de um código-fonte Java envolve a compilação do código-fonte em bytecode pela máquina virtual Java (JVM), que é uma camada de abstração entre o código-fonte e o hardware. O bytecode é então interpretado pela JVM e executado pelo hardware.
+
+
+8. O que é um “atributo” em POO?
+
+
+ Um atributo em POO é uma variável que armazena dados pertencentes a uma instância de uma classe. Atributos também são chamados de "variáveis de instância" ou "propriedades".
+
+
+9. Para que serve um “modificador de acesso” em POO?
+
+
+Um modificador de acesso em POO é um recurso que permite controlar o acesso aos atributos e métodos de uma classe. Os modificadores de acesso mais comuns são "public" (público), "private" (privado) e "protected" (protegido).
+
+
+10. Pesquise o conceito de “hardcoding” (codificação rígida) e descreva o conceito com as suas próprias palavras.
+
+
+"Hardcoding" é um termo usado para descrever a prática de codificar valores fixos diretamente no código-fonte de um programa, em vez de armazená-los em variáveis ou arquivos externos. Isso pode tornar o código difícil de manter e modificar, e pode causar problemas se os valores codificados mudarem. É considerado uma má prática de programação e deve ser evitado sempre que possível.
